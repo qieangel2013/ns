@@ -16,9 +16,9 @@ import org.apache.http.util.EntityUtils;
 import org.apache.log4j.Logger;
 
 /** 
-* @ClassName: com.jd.dashboard.util.HttpClientTestUtil 
+* @ClassName: com.ns.util.HttpClientTestUtil 
 * @Description: 利用httpGet的方式模拟浏览器请求,用来测试控制层
-* @author nieweijun
+* @author danie
 * @date 2016年8月23日 上午11:12:01 
 *  
 */
